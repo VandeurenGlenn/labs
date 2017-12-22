@@ -1,0 +1,13 @@
+{
+  "name": "labs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/vandeurenglenn/labs",
+  "author": "Glenn Vandeuren",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-daemon": "^0.1.4",
+    "express": "^4.16.2"
+  }
+}
